@@ -1,0 +1,7 @@
+{
+  "name": "ViewportBoard",
+  "tree": {
+    "$className": "Folder",
+    "ViewportBoard": { "$path": "src" }
+  }
+}

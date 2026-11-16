@@ -1,0 +1,8 @@
+{
+  "name": "FieldSupplyExample",
+  "tree": {
+    "$className": "Folder",
+    "FieldSupplyDemo": { "$path": "FieldSupplyDemo.luau" },
+    "RunDemo": { "$path": "RunDemo.client.luau" }
+  }
+}

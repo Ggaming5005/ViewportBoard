@@ -1,0 +1,6 @@
+*.rbxm
+*.rbxl
+*.rbxlx
+*.zip
+*.mp4
+dist/

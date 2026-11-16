@@ -2,13 +2,17 @@
 
 Compare Roblox UI layouts across device sizes without losing your before-and-after reference.
 
+![ViewportBoard comparing the original Field Supply interface](media/preview.jpg)
+
+[Watch the Studio demo](https://github.com/Ggaming5005/ViewportBoard/releases/download/v0.1.0/ViewportBoard-demo.mp4).
+
 Select a ScreenGui or root GUI object, save its layout under a name, and pin a baseline. Edit your UI, snapshot the same state again, and inspect both versions side by side. Phone, tablet and desktop presets come from Studio. No framework or runtime dependency is required.
 
 **Layout mode is a static property snapshot.** Native sizes, constraints and layout components are evaluated on virtual device canvases. Scripts and event connections are not run, and device safe areas are not simulated. This helps review layout changes; it does not replace Play testing.
 
 ## Install
 
-Download `ViewportBoard.rbxm` from Releases. Insert it into a temporary Studio place, select its `ViewportBoard` Script, and choose **Save as Local Plugin**. Delete the inserted copy after installing. Open **Plugins → ViewportBoard**.
+Download `ViewportBoard.rbxm` from [Releases](https://github.com/Ggaming5005/ViewportBoard/releases). Insert it into a temporary Studio place, select its `ViewportBoard` Script, and choose **Save as Local Plugin**. Delete the inserted copy after installing. Open **Plugins → ViewportBoard**.
 
 Or build with [Rojo](https://rojo.space/):
 

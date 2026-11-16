@@ -1,5 +1,7 @@
 # Verification
 
+A 22-second 720×1080 H.264 clip was recorded from the actual Studio plugin at 30 fps. It shows the original Field Supply example's clipped phone baseline, the revised layout, and the comparison board. These are native layout-property snapshots; no screenshot-mode result is implied. Selected frames were visually reviewed.
+
 Verified 17 November 2026 using Luau 0.747, Rojo 7.7.0 and Windows Studio 0.747.0.7471481.
 
 ## Portable checks
